@@ -1,1 +1,151 @@
-
+employee_id,first_name,last_name,department,job_title,salary,bonus,performance_score,years_at_company,remote_status,manager_id,gender,age,education_level,location,hire_date
+1,James,Walker,Engineering,Software Engineer,112000,8500,4,3,Remote,12,M,29,Bachelor,Denver,2018-06-14
+2,Sophia,Martinez,Marketing,Marketing Specialist,72000,3000,3,2,Hybrid,34,F,26,Bachelor,Phoenix,2019-03-22
+3,Liam,Johnson,Finance,Financial Analyst,88000,5000,4,4,Onsite,22,M,31,Master,Chicago,2016-11-05
+4,Olivia,Brown,HR,HR Coordinator,65000,2000,3,1,Hybrid,45,F,28,Bachelor,Austin,2020-01-19
+5,Noah,Davis,Engineering,DevOps Engineer,118000,9000,5,5,Remote,12,M,33,Bachelor,Seattle,2015-07-09
+6,Emma,Miller,Sales,Account Executive,95000,12000,4,4,Onsite,55,F,30,Bachelor,Denver,2017-04-12
+7,William,Wilson,Engineering,Data Engineer,125000,10000,5,6,Remote,12,M,35,Master,San Francisco,2014-09-03
+8,Ava,Moore,Product,Product Manager,130000,15000,4,5,Hybrid,18,F,32,Master,New York,2016-02-27
+9,James,Taylor,Engineering,Backend Developer,105000,7000,3,3,Remote,12,M,27,Bachelor,Portland,2021-05-18
+10,Mia,Anderson,Customer Support,Support Specialist,54000,1500,3,2,Onsite,65,F,25,Associate,Boise,2022-08-11
+11,Benjamin,Thomas,Engineering,Frontend Developer,99000,6000,4,4,Hybrid,12,M,28,Bachelor,San Diego,2019-10-07
+12,Charlotte,Jackson,Finance,Senior Accountant,102000,5500,4,6,Onsite,22,F,36,Bachelor,Chicago,2013-12-02
+13,Elijah,White,Engineering,Machine Learning Engineer,140000,16000,5,4,Remote,12,M,34,Master,Boston,2017-07-21
+14,Amelia,Harris,Marketing,Content Strategist,78000,3500,3,3,Hybrid,34,F,29,Bachelor,Atlanta,2020-09-14
+15,Lucas,Martin,Engineering,QA Engineer,88000,4000,3,4,Onsite,12,M,31,Bachelor,Phoenix,2018-04-30
+16,Harper,Thompson,HR,HR Generalist,72000,2500,4,5,Hybrid,45,F,33,Bachelor,Denver,2015-03-08
+17,Mason,Garcia,Product,Product Analyst,89000,4500,3,2,Remote,18,M,27,Bachelor,Seattle,2021-06-25
+18,Evelyn,Martinez,Sales,Sales Representative,68000,8000,4,3,Onsite,55,F,26,Bachelor,Houston,2019-01-17
+19,Logan,Robinson,Engineering,Cloud Architect,150000,20000,5,7,Remote,12,M,38,Master,San Francisco,2012-05-29
+20,Abigail,Clark,Customer Support,Support Lead,62000,2500,4,4,Hybrid,65,F,31,Bachelor,Miami,2017-11-09
+21,Jacob,Rodriguez,Engineering,Security Engineer,132000,14000,5,6,Remote,12,M,37,Bachelor,Denver,2014-08-22
+22,Emily,Lewis,Finance,Payroll Specialist,68000,2000,3,3,Onsite,22,F,30,Bachelor,Chicago,2018-02-13
+23,Michael,Lee,Engineering,Systems Administrator,96000,5000,4,5,Hybrid,12,M,35,Associate,Portland,2016-06-01
+24,Elizabeth,Walker,Marketing,SEO Analyst,71000,3000,3,2,Remote,34,F,27,Bachelor,San Diego,2021-03-15
+25,Ethan,Hall,Engineering,Full Stack Developer,118000,9000,4,4,Hybrid,12,M,32,Bachelor,Seattle,2017-12-19
+26,Sofia,Allen,Product,UX Designer,94000,6000,4,3,Hybrid,18,F,29,Bachelor,New York,2019-07-28
+27,Daniel,Young,Engineering,Data Scientist,135000,15000,5,5,Remote,12,M,36,Master,Boston,2015-10-04
+28,Avery,Hernandez,HR,Recruiter,69000,2500,3,2,Onsite,45,F,28,Bachelor,Phoenix,2020-04-23
+29,Matthew,King,Sales,Sales Manager,110000,18000,4,6,Onsite,55,M,40,Bachelor,Houston,2013-09-12
+30,Chloe,Wright,Customer Support,Support Specialist,56000,1500,3,1,Hybrid,65,F,24,Associate,Boise,2022-06-07
+31,Henry,Lopez,Engineering,Mobile Developer,108000,7000,4,4,Remote,12,M,30,Bachelor,Denver,2018-08-30
+32,Grace,Scott,Finance,Financial Controller,125000,8000,5,7,Onsite,22,F,42,Master,Chicago,2011-03-11
+33,Jackson,Green,Engineering,Network Engineer,98000,5000,4,5,Hybrid,12,M,33,Bachelor,San Diego,2016-05-16
+34,Victoria,Adams,Marketing,Brand Manager,102000,7000,4,4,Hybrid,34,F,31,Master,Atlanta,2017-02-08
+35,Sebastian,Baker,Engineering,Database Administrator,115000,9000,4,6,Remote,12,M,39,Bachelor,Seattle,2014-11-25
+36,Madison,Nelson,Product,Product Designer,97000,5500,4,3,Hybrid,18,F,28,Bachelor,New York,2020-10-02
+37,David,Carter,Engineering,Software Architect,155000,20000,5,8,Remote,12,M,41,Master,San Francisco,2010-04-19
+38,Aria,Mitchell,HR,HR Specialist,66000,2000,3,2,Onsite,45,F,27,Bachelor,Austin,2021-01-12
+39,Joseph,Perez,Sales,Account Manager,98000,15000,4,5,Onsite,55,M,38,Bachelor,Houston,2014-07-03
+40,Scarlett,Roberts,Customer Support,Support Analyst,60000,2000,4,3,Hybrid,65,F,29,Bachelor,Miami,2018-09-27
+41,Owen,Turner,Engineering,AI Researcher,145000,17000,5,4,Remote,12,M,34,PhD,Boston,2016-12-14
+42,Lily,Phillips,Finance,Budget Analyst,82000,4000,4,4,Onsite,22,F,33,Bachelor,Chicago,2017-05-22
+43,Wyatt,Campbell,Engineering,IT Support Engineer,78000,3000,3,3,Hybrid,12,M,29,Associate,Portland,2020-03-09
+44,Hannah,Parker,Marketing,Social Media Manager,88000,5000,4,4,Remote,34,F,30,Bachelor,San Diego,2019-11-18
+45,John,Evans,Engineering,Solutions Architect,148000,19000,5,7,Remote,12,M,40,Master,Seattle,2013-06-04
+46,Zoe,Edwards,Product,UI Designer,93000,5500,4,3,Hybrid,18,F,27,Bachelor,New York,2021-04-26
+47,Levi,Collins,Engineering,SRE Engineer,128000,12000,5,5,Remote,12,M,35,Bachelor,Denver,2016-01-07
+48,Nora,Stewart,HR,Compensation Analyst,88000,4000,4,4,Hybrid,45,F,32,Bachelor,Austin,2018-07-30
+49,Isaac,Morris,Sales,Sales Engineer,102000,14000,4,4,Onsite,55,M,37,Bachelor,Houston,2015-09-15
+50,Eleanor,Rogers,Customer Support,Customer Success Manager,92000,6000,4,5,Hybrid,65,F,34,Bachelor,Miami,2016-02-03
+51,Julian,Price,Engineering,Backend Developer,104000,6500,4,3,Remote,12,M,29,Bachelor,Denver,2019-03-14
+52,Penelope,Barnes,Finance,Tax Analyst,86000,3500,3,4,Onsite,22,F,31,Bachelor,Chicago,2017-08-09
+53,Gabriel,Reed,Engineering,Data Analyst,92000,5000,4,3,Hybrid,12,M,28,Bachelor,Phoenix,2020-02-21
+54,Layla,Kelly,Marketing,Email Marketing Manager,90000,4500,4,5,Remote,34,F,32,Bachelor,San Diego,2016-10-17
+55,Anthony,Howard,Engineering,Cloud Engineer,130000,11000,5,6,Remote,12,M,36,Bachelor,Seattle,2015-05-12
+56,Natalie,Ramirez,Product,Product Researcher,88000,4000,3,2,Hybrid,18,F,27,Bachelor,New York,2021-07-03
+57,Dylan,Cox,Engineering,IT Technician,72000,2500,3,3,Onsite,12,M,26,Associate,Portland,2019-11-28
+58,Lillian,Diaz,HR,HR Business Partner,98000,5000,4,6,Hybrid,45,F,35,Master,Austin,2014-04-15
+59,Andrew,Gray,Sales,Regional Sales Manager,115000,17000,4,7,Onsite,55,M,41,Bachelor,Houston,2013-01-22
+60,Zoey,James,Customer Support,Support Trainer,64000,2000,4,4,Hybrid,65,F,30,Bachelor,Miami,2018-06-09
+61,Christopher,Foster,Engineering,Software Engineer,110000,8000,4,4,Remote,12,M,33,Bachelor,Denver,2017-09-05
+62,Stella,Watson,Finance,Cost Analyst,83000,3000,3,3,Onsite,22,F,29,Bachelor,Chicago,2020-03-18
+63,Nathan,Brooks,Engineering,Network Administrator,94000,4500,4,5,Hybrid,12,M,34,Associate,San Diego,2016-12-01
+64,Victoria,Wood,Marketing,Creative Director,125000,9000,5,6,Hybrid,34,F,38,Master,Atlanta,2015-07-27
+65,Christian,Bennett,Engineering,Data Scientist,138000,16000,5,5,Remote,12,M,37,PhD,Boston,2014-02-11
+66,Audrey,Murphy,Product,UX Researcher,96000,5500,4,3,Hybrid,18,F,30,Bachelor,New York,2019-09-30
+67,Jonathan,Bailey,Engineering,DevOps Specialist,122000,10000,5,6,Remote,12,M,35,Bachelor,Seattle,2016-05-19
+68,Lucy,Rivera,HR,HR Coordinator,67000,2000,3,2,Onsite,45,F,26,Bachelor,Austin,2021-02-08
+69,Charles,Cooper,Sales,Sales Consultant,78000,9000,4,3,Onsite,55,M,29,Bachelor,Houston,2019-04-25
+70,Claire,Richardson,Customer Support,Support Analyst,59000,1500,3,2,Hybrid,65,F,25,Associate,Miami,2022-01-14
+71,Thomas,Cook,Engineering,Mobile Developer,109000,7000,4,4,Remote,12,M,31,Bachelor,Denver,2018-10-03
+72,Anna,Morgan,Finance,Senior Auditor,118000,6500,4,6,Onsite,22,F,40,Master,Chicago,2013-06-20
+73,Hunter,Bell,Engineering,IT Support Specialist,76000,3000,3,3,Hybrid,12,M,27,Associate,Portland,2020-05-11
+74,Leah,Gomez,Marketing,Digital Strategist,92000,5000,4,4,Remote,34,F,31,Bachelor,San Diego,2017-12-29
+75,Isaiah,Diaz,Engineering,Solutions Engineer,126000,12000,5,5,Remote,12,M,36,Bachelor,Seattle,2015-08-16
+76,Hailey,Myers,Product,UI/UX Designer,95000,6000,4,3,Hybrid,18,F,28,Bachelor,New York,2020-11-04
+77,Connor,Long,Engineering,Database Engineer,118000,9000,4,6,Remote,12,M,38,Bachelor,Boston,2014-03-07
+78,Ellie,Reyes,HR,HR Specialist,68000,2500,3,2,Onsite,45,F,27,Bachelor,Austin,2021-06-22
+79,Jeremiah,Price,Sales,Account Executive,96000,13000,4,4,Onsite,55,M,33,Bachelor,Houston,2016-09-18
+80,Naomi,Howard,Customer Support,Customer Success Specialist,88000,5000,4,5,Hybrid,65,F,32,Bachelor,Miami,2017-03-12
+81,Adam,Kim,Engineering,Software Engineer,113000,8500,4,4,Remote,12,M,30,Bachelor,Denver,2019-07-25
+82,Elena,Patel,Finance,Financial Analyst,90000,4500,4,3,Onsite,22,F,28,Bachelor,Chicago,2020-04-09
+83,Brayden,Nguyen,Engineering,Systems Engineer,98000,5000,4,5,Hybrid,12,M,34,Bachelor,San Diego,2016-11-14
+84,Sadie,Ortiz,Marketing,Marketing Coordinator,72000,3000,3,2,Remote,34,F,26,Bachelor,Atlanta,2021-08-03
+85,Robert,Griffin,Engineering,Cloud Architect,152000,20000,5,7,Remote,12,M,41,Master,Seattle,2012-02-28
+86,Piper,Simmons,Product,Product Manager,128000,15000,4,5,Hybrid,18,F,33,Master,New York,2016-09-01
+87,Asher,Fleming,Engineering,AI Engineer,142000,17000,5,4,Remote,12,M,35,PhD,Boston,2017-01-19
+88,Alice,Harper,HR,HR Generalist,75000,3000,4,4,Hybrid,45,F,31,Bachelor,Austin,2018-05-06
+89,Jordan,Black,Sales,Sales Representative,70000,8000,3,3,Onsite,55,M,28,Bachelor,Houston,2020-02-17
+90,Quinn,Walsh,Customer Support,Support Lead,65000,2500,4,4,Hybrid,65,F,29,Bachelor,Miami,2018-10-30
+91,Leo,Stevens,Engineering,Security Analyst,118000,9000,4,5,Remote,12,M,33,Bachelor,Denver,2016-06-13
+92,Caroline,Porter,Finance,Senior Accountant,110000,6000,4,6,Onsite,22,F,37,Bachelor,Chicago,2014-01-08
+93,Easton,Sharp,Engineering,Network Engineer,97000,4500,4,5,Hybrid,12,M,32,Bachelor,San Diego,2017-04-26
+94,Autumn,Barber,Marketing,Content Writer,68000,2500,3,2,Remote,34,F,27,Bachelor,Atlanta,2021-03-02
+95,Grayson,Tyler,Engineering,Software Developer,108000,7000,4,4,Remote,12,M,30,Bachelor,Seattle,2018-09-09
+96,Faith,Goodman,Product,UX Designer,93000,5500,4,3,Hybrid,18,F,28,Bachelor,New York,2020-12-15
+97,Evan,Briggs,Engineering,Data Engineer,132000,14000,5,5,Remote,12,M,36,Master,Boston,2015-07-02
+98,Melanie,Conner,HR,Recruiter,70000,2500,3,2,Onsite,45,F,26,Bachelor,Austin,2021-05-20
+99,Parker,Franklin,Sales,Sales Manager,112000,18000,4,6,Onsite,55,M,40,Bachelor,Houston,2013-11-11
+100,Valentina,Holt,Customer Support,Customer Success Manager,94000,6000,4,5,Hybrid,65,F,34,Bachelor,Miami,2016-04-07
+101,Micah,Reeves,Engineering,Backend Developer,107000,6500,4,4,Remote,12,M,31,Bachelor,Denver,2018-07-19
+102,Julia,Hayes,Finance,Financial Planner,92000,4500,4,3,Onsite,22,F,30,Bachelor,Chicago,2020-02-05
+103,Roman,Beck,Engineering,Systems Analyst,96000,5000,4,4,Hybrid,12,M,33,Bachelor,San Diego,2017-11-22
+104,Clara,Pratt,Marketing,Content Manager,98000,5500,4,5,Remote,34,F,32,Master,Atlanta,2016-06-14
+105,Miles,Whitney,Engineering,Cloud Developer,128000,11000,5,6,Remote,12,M,37,Bachelor,Seattle,2015-03-09
+106,Elise,Farmer,Product,Product Designer,94000,5000,4,3,Hybrid,18,F,29,Bachelor,New York,2019-10-28
+107,Silas,Boone,Engineering,IT Support Technician,74000,2500,3,3,Onsite,12,M,27,Associate,Portland,2020-01-17
+108,Adeline,Shepard,HR,HR Manager,102000,6000,4,6,Hybrid,45,F,38,Master,Austin,2014-08-04
+109,Brooks,Carson,Sales,Sales Executive,99000,14000,4,5,Onsite,55,M,35,Bachelor,Houston,2016-05-23
+110,Delilah,Stokes,Customer Support,Support Specialist,58000,1500,3,2,Hybrid,65,F,25,Associate,Miami,2022-03-11
+111,Kevin,Abbott,Engineering,Software Engineer,114000,8500,4,4,Remote,12,M,32,Bachelor,Denver,2019-09-07
+112,Isabelle,Meadows,Finance,Accounting Specialist,78000,2500,3,3,Onsite,22,F,28,Bachelor,Chicago,2020-06-18
+113,Ryder,Conway,Engineering,Network Technician,88000,4000,4,4,Hybrid,12,M,30,Associate,San Diego,2018-12-02
+114,Josephine,Hoover,Marketing,Brand Strategist,99000,6000,4,4,Remote,34,F,31,Master,Atlanta,2017-04-21
+115,Maxwell,Downs,Engineering,Data Scientist,140000,16000,5,5,Remote,12,M,36,PhD,Boston,2015-09-14
+116,Paige,McKinney,Product,UX Researcher,97000,5500,4,3,Hybrid,18,F,30,Bachelor,New York,2019-12-09
+117,Theo,Jarvis,Engineering,DevOps Engineer,124000,10000,5,6,Remote,12,M,35,Bachelor,Seattle,2016-02-27
+118,Emery,Glass,HR,HR Coordinator,69000,2000,3,2,Onsite,45,F,26,Bachelor,Austin,2021-04-15
+119,Malachi,Bray,Sales,Sales Representative,72000,8500,3,3,Onsite,55,M,29,Bachelor,Houston,2019-07-08
+120,Hope,Finch,Customer Support,Support Analyst,61000,2000,3,3,Hybrid,65,F,27,Bachelor,Miami,2018-11-19
+121,Jayden,Knox,Engineering,Security Engineer,120000,9000,4,5,Remote,12,M,34,Bachelor,Denver,2016-03-03
+122,Vivian,Lowry,Finance,Senior Auditor,116000,6500,4,6,Onsite,22,F,39,Master,Chicago,2013-05-28
+123,Kingston,Reilly,Engineering,IT Support Specialist,77000,3000,3,3,Hybrid,12,M,27,Associate,Portland,2020-08-14
+124,Ember,Stroud,Marketing,Digital Marketing Manager,94000,5000,4,4,Remote,34,F,31,Bachelor,San Diego,2017-01-06
+125,Weston,Carver,Engineering,Solutions Architect,150000,19000,5,7,Remote,12,M,40,Master,Seattle,2013-10-02
+126,Alina,Rowe,Product,Product Manager,129000,15000,4,5,Hybrid,18,F,33,Master,New York,2016-07-25
+127,Finn,Durham,Engineering,AI Researcher,144000,17000,5,4,Remote,12,M,35,PhD,Boston,2017-03-18
+128,Maeve,Stratton,HR,HR Generalist,76000,3000,4,4,Hybrid,45,F,31,Bachelor,Austin,2018-09-12
+129,Garrett,Langley,Sales,Account Manager,97000,13000,4,4,Onsite,55,M,34,Bachelor,Houston,2016-12-20
+130,Rowan,Jeffers,Customer Support,Customer Success Specialist,90000,5000,4,5,Hybrid,65,F,32,Bachelor,Miami,2017-05-04
+131,Tyler,Monroe,Engineering,Software Developer,110000,8000,4,4,Remote,12,M,31,Bachelor,Denver,2018-04-16
+132,Adriana,Sheffield,Finance,Financial Analyst,88000,4000,4,3,Onsite,22,F,29,Bachelor,Chicago,2020-01-29
+133,Beau,Eastwood,Engineering,Systems Engineer,99000,5000,4,5,Hybrid,12,M,33,Bachelor,San Diego,2016-10-11
+134,Raelynn,Colton,Marketing,Marketing Specialist,74000,3000,3,2,Remote,34,F,26,Bachelor,Atlanta,2021-06-01
+135,Spencer,Landry,Engineering,Cloud Architect,153000,20000,5,7,Remote,12,M,41,Master,Seattle,2012-04-14
+136,Amara,Easton,Product,UX Designer,95000,5500,4,3,Hybrid,18,F,28,Bachelor,New York,2020-09-27
+137,Colt,Radford,Engineering,Data Engineer,134000,14000,5,5,Remote,12,M,36,Master,Boston,2015-06-06
+138,Miranda,Thorne,HR,Recruiter,71000,2500,3,2,Onsite,45,F,26,Bachelor,Austin,2021-03-22
+139,Shawn,Lowell,Sales,Sales Manager,113000,18000,4,6,Onsite,55,M,40,Bachelor,Houston,2013-08-15
+140,Angelina,Corbett,Customer Support,Customer Success Manager,96000,6000,4,5,Hybrid,65,F,34,Bachelor,Miami,2016-01-10
+141,Reid,Callahan,Engineering,Backend Developer,106000,6500,4,4,Remote,12,M,30,Bachelor,Denver,2019-02-14
+142,Mariana,Grayson,Finance,Senior Accountant,112000,6000,4,6,Onsite,22,F,37,Bachelor,Chicago,2014-03-19
+143,Tobias,Eastman,Engineering,Network Engineer,96000,4500,4,5,Hybrid,12,M,32,Bachelor,San Diego,2017-07-07
+144,Selena,Halston,Marketing,Content Writer,70000,2500,3,2,Remote,34,F,27,Bachelor,Atlanta,2021-02-03
+145,Corbin,Ellsworth,Engineering,Software Developer,109000,7000,4,4,Remote,12,M,30,Bachelor,Seattle,2018-08-22
+146,Jayla,Montgomery,Product,UI Designer,92000,5500,4,3,Hybrid,18,F,27,Bachelor,New York,2021-05-16
+147,Marshall,Drake,Engineering,Data Scientist,137000,15000,5,5,Remote,12,M,36,Master,Boston,2015-11-30
+148,Helena,Strickland,HR,HR Specialist,69000,2500,3,2,Onsite,45,F,26,Bachelor,Austin,2021-04-09
+149,Derek,Calloway,Sales,Sales Engineer,104000,14000,4,4,Onsite,55,M,37,Bachelor,Houston,2015-10-18
+150,Adrianna,Whitfield,Customer Support,Support Lead,66000,2500,4,4,Hybrid,65,F,29,Bachelor,Miami,2018-03-27
